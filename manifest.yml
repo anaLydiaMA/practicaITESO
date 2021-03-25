@@ -1,0 +1,4 @@
+applications:
+- name: simple-toolchain-20210324231509563
+  random-route: true
+  memory: 128M
